@@ -29,10 +29,10 @@ The Event Management System (EMS) is a web-based application designed to facilit
 
 ## Technologies Used
 
-- **Backend**: Spring Boot, Spring Framework
-- **Frontend**: To be determined (e.g., Angular, React, or Thymeleaf)
-- **Database**: To be determined (e.g., MySQL, PostgreSQL, or MongoDB)
-- **Build Tool**: Maven/Gradle
+- **Backend**: Spring Boot, Spring Framework, JavaSE, JavaEE, Hibernate, REST APIs
+- **Frontend**: JSP, HTML, CSS
+- **Database**: MySQL
+- **Build Tool**: Maven/Gradle, Spring Initializer
 
 ## Features
 
