@@ -32,9 +32,9 @@ public class EventappApplication {
 		Map<String, Object> settings = new HashMap<>();
 
 		settings.put("hibernate.connection.driver_class", "com.mysql.cj.jdbc.Driver");
-		settings.put("hibernate.connection.url", "jdbc:mysql://localhost:3306/eventdb");
-		settings.put("hibernate.connection.username", "root");
-		settings.put("hibernate.connection.password", "Albert@123");
+		settings.put("hibernate.connection.url", "enter your URL");
+		settings.put("hibernate.connection.username", "enter username");
+		settings.put("hibernate.connection.password", "enter password");
 
 		settings.put("hibernate.hbm2ddl.auto", "update");
 		settings.put("hibernate.dialect", "org.hibernate.dialect.MySQLDialect");
